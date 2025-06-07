@@ -1,7 +1,11 @@
 # My Portfolio Website
 
-A simple portfolio website to showcase projects and skills.
+A simple pVortfolio website to showcase projects and skills.
 
+## Skills
+
+Github
+Markdown Previewer
 ## Installation
 
 1. Clone the repository:
