@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-A simple pVortfolio website to showcase projects and skills.
+A simple portfolio website to showcase projects and skills.
 
 ## Skills
 12345
@@ -18,6 +18,6 @@ Browse through the sections to explore my work.
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- [https://github.com/dudeistroy]
 
 ## Contact
